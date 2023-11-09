@@ -1,94 +1,72 @@
 # QAManualTestingProjects
-# Project Name
+This repository contains a list of all the projects completed during my manual testing training. The projects were completed using a combination of manual testing techniques and test management tools.
 
-## Overview
+## Project List
 
-Briefly describe the purpose and objectives of the software testing project.
-
-## Table of Contents
-
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-
-## Features
-
-List key features and functionalities of the testing project.
+| Project Name | Description | Tools Used |
+|--------------|-------------|------------|
+| Project 1    | Tested a web application for functionality and usability. | JIRA, Selenium, TestRail |
+| Project 2    | Tested a mobile application for compatibility across different devices. | Appium, TestLink |
+| Project 3    | Tested a desktop application for security vulnerabilities. | Burp Suite, Nessus, ZAP |
 
 ## Getting Started
 
-### Prerequisites
+To view the details of each project, simply click on the project name in the table above. The project page will contain a brief description of the project as well as a list of tools used to complete the project.
 
-Ensure that the following software/tools are installed:
+## Contributing
 
-- [List of dependencies or tools]
+If you have any feedback or suggestions for improvements, please feel free to open an issue or pull request.
 
-### Installation
+## License
 
-1. Clone the repository:
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+You can copy and paste this code into a Markdown file and modify the text as needed.
 
-   ```bash
-   git clone https://github.com/yourusername/yourproject.git
-Navigate to the project directory:
 
-bash
-Copy code
-cd yourproject
-Install dependencies:
 
-bash
-Copy code
-npm install
-or
 
-bash
-Copy code
-pip install -r requirements.txt
-Usage
-Explain how to use the testing framework or tools in the project.
 
-Testing
-Describe the testing process and provide instructions on running tests.
 
-bash
-Copy code
-# Example command to run tests
-npm test
-Contributing
-If you want to contribute to this project, follow these steps:
 
-Fork the project
+## Templates
+- Test Plan
+- Test Cases
+- Bug Report
+- RTM
+- Test Reports
+- Test Metrics
 
-Create a new branch:
 
-bash
-Copy code
-git checkout -b feature/new-feature
-Make your changes and commit them:
+### Project 1
+- Test Plan
+- Test Cases
+- Bug Report
+- RTM
+- Test Reports
+- Test Metrics
 
-bash
-Copy code
-git commit -m 'Add new feature'
-Push to the branch:
+### Project 2
+- Test Plan
+- Test Cases
+- Bug Report
+- RTM
+- Test Reports
+- Test Metrics
 
-bash
-Copy code
-git push origin feature/new-feature
-Submit a pull request
+### Project 3
+- Test Plan
+- Test Cases
+- Bug Report
+- RTM
+- Test Reports
+- Test Metrics
 
-License
-This project is licensed under the [License Name]. See the LICENSE.md file for details.
+Test Plan
+I have created a Test Plan for the Project
 
-Acknowledgments
-Give credit to any resources, tools, or individuals that contributed to the project.
+Project name: 
+What.
 
-vbnet
-Copy code
+dad
 
-Feel free to modify it based on your project's specific details and requirements!
+
